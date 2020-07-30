@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Hyperskill Tic-Tac-Toe
+JetBrains Academy / Hyperskill
+Tic-Tac-Toe
