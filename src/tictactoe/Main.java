@@ -6,7 +6,7 @@ import java.util.InputMismatchException;
 /**
  * Tic-Tac-Toe
  *
- * @author  krzezins
+ * @author  krzezinski
  * @version 1.0
  * @since   2020-07-29
  */
