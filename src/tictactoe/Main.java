@@ -3,6 +3,14 @@ package tictactoe;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
+/**
+ * Tic-Tac-Toe
+ *
+ * @author  krzezins
+ * @version 1.0
+ * @since   2020-07-29
+ */
+
 public class Main {
     public static Scanner scanner = new Scanner(System.in);
     private static int xoDiff = 0;
